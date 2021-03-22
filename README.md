@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oysteinloken
-- 👀 I’m interested in tech,development, ai, business and fianance. 
+- 👀 I’m interested in tech,development, ai, business and finance. 
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me loken.oystein@gmail.com
